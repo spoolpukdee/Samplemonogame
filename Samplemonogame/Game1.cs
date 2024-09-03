@@ -12,6 +12,8 @@ namespace Samplemonogame
         int fdkmigr;
         int aaaaaaaa;
 
+        int riiiiiii;
+
         public Game1()
         {
             _graphics = new GraphicsDeviceManager(this);
