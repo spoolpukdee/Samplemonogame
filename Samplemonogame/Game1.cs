@@ -8,6 +8,8 @@ namespace Samplemonogame
     {
         private GraphicsDeviceManager _graphics;
         private SpriteBatch _spriteBatch;
+        float orgtrio;
+
 
         public Game1()
         {
