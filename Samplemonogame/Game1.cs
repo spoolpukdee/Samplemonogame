@@ -10,6 +10,7 @@ namespace Samplemonogame
         private SpriteBatch _spriteBatch;
         float orgtrio;
         int fdkmigr;
+        int aaaaaaaa;
 
         public Game1()
         {
