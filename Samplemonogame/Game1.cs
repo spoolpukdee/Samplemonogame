@@ -9,7 +9,7 @@ namespace Samplemonogame
         private GraphicsDeviceManager _graphics;
         private SpriteBatch _spriteBatch;
         float orgtrio;
-
+        int fdkmigr;
 
         public Game1()
         {
